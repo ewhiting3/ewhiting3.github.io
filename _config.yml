@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ewhiting3.github.io
+title: Graceful Living
+tagline: writing my story, one page at a time
+description: My awesome new site
+paginate: 5
